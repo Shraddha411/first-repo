@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testngPractise.Katespade_Register">
+      <class name="testngPractise.ReverseWordsInString">
         <methods>
-          <include name="register"/>
+          <include name="Reverse"/>
         </methods>
-      </class> <!-- testngPractise.Katespade_Register -->
+      </class> <!-- testngPractise.ReverseWordsInString -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
